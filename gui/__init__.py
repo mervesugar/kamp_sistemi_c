@@ -1,0 +1,1 @@
+from .uygulama import AnaUygulama

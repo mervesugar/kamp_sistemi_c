@@ -1,0 +1,92 @@
+[
+  {
+    "rezervasyon_id": "R00000",
+    "ziyaretci_id": "Z0000",
+    "alan_id": "A000",
+    "giris_tarihi": "2025-07-20",
+    "cikis_tarihi": "2025-07-22",
+    "toplam_ucret": 1200,
+    "aktif": true
+  },
+  {
+    "rezervasyon_id": "R00001",
+    "ziyaretci_id": "Z0000",
+    "alan_id": "A001",
+    "giris_tarihi": "2025-09-11",
+    "cikis_tarihi": "2025-09-17",
+    "toplam_ucret": 3600,
+    "aktif": true
+  },
+  {
+    "rezervasyon_id": "R00002",
+    "ziyaretci_id": "Z0002",
+    "alan_id": "A001",
+    "giris_tarihi": "2025-10-23",
+    "cikis_tarihi": "2025-10-29",
+    "toplam_ucret": 3600,
+    "aktif": true
+  },
+  {
+    "rezervasyon_id": "R00003",
+    "ziyaretci_id": "Z0003",
+    "alan_id": "A003",
+    "giris_tarihi": "2025-08-30",
+    "cikis_tarihi": "2025-09-05",
+    "toplam_ucret": 2100,
+    "aktif": true
+  },
+  {
+    "rezervasyon_id": "R00004",
+    "ziyaretci_id": "Z0001",
+    "alan_id": "A003",
+    "giris_tarihi": "2025-09-26",
+    "cikis_tarihi": "2025-09-29",
+    "toplam_ucret": 1050,
+    "aktif": true
+  },
+  {
+    "rezervasyon_id": "R00005",
+    "ziyaretci_id": "Z0003",
+    "alan_id": "A000",
+    "giris_tarihi": "2025-04-21",
+    "cikis_tarihi": "2025-04-22",
+    "toplam_ucret": 600,
+    "aktif": true
+  },
+  {
+    "rezervasyon_id": "R00006",
+    "ziyaretci_id": "Z0002",
+    "alan_id": "A001",
+    "giris_tarihi": "2025-08-21",
+    "cikis_tarihi": "2025-08-27",
+    "toplam_ucret": 3600,
+    "aktif": true
+  },
+  {
+    "rezervasyon_id": "R00007",
+    "ziyaretci_id": "Z0004",
+    "alan_id": "A004",
+    "giris_tarihi": "2025-09-16",
+    "cikis_tarihi": "2025-09-22",
+    "toplam_ucret": 900,
+    "aktif": true
+  },
+  {
+    "rezervasyon_id": "R00008",
+    "ziyaretci_id": "Z0004",
+    "alan_id": "A000",
+    "giris_tarihi": "2025-01-20",
+    "cikis_tarihi": "2025-01-21",
+    "toplam_ucret": 600,
+    "aktif": true
+  },
+  {
+    "rezervasyon_id": "R00009",
+    "ziyaretci_id": "Z0001",
+    "alan_id": "A000",
+    "giris_tarihi": "2025-01-10",
+    "cikis_tarihi": "2025-01-15",
+    "toplam_ucret": 3000,
+    "aktif": true
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "ziyaretci_id": "Z0001",
+    "ad": "Merve",
+    "soyad": "Çelik",
+    "telefon": "05101856184",
+    "oncelik": 0
+  },
+  {
+    "ziyaretci_id": "Z0002",
+    "ad": "Hüseyin",
+    "soyad": "Yılmaz",
+    "telefon": "05557991727",
+    "oncelik": 5
+  },
+  {
+    "ziyaretci_id": "Z0003",
+    "ad": "Merve",
+    "soyad": "Çelik",
+    "telefon": "05403575760",
+    "oncelik": 0
+  },
+  {
+    "ziyaretci_id": "Z0004",
+    "ad": "Ayşe",
+    "soyad": "Şahin",
+    "telefon": "05277910938",
+    "oncelik": 0
+  },
+  {
+    "ziyaretci_id": "Z0000",
+    "ad": "Fatma",
+    "soyad": "Arslan",
+    "telefon": "05578808988",
+    "oncelik": 0
+  }
+]

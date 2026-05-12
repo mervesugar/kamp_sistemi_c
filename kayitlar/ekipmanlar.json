@@ -1,0 +1,26 @@
+[
+  {
+    "ekipman_id": "E000",
+    "ad": "Çadır (2 Kişilik)",
+    "toplam_stok": 10,
+    "mevcut_stok": 8
+  },
+  {
+    "ekipman_id": "E001",
+    "ad": "Uyku Tulumu",
+    "toplam_stok": 10,
+    "mevcut_stok": 8
+  },
+  {
+    "ekipman_id": "E002",
+    "ad": "Kamp Sandalyesi",
+    "toplam_stok": 10,
+    "mevcut_stok": 8
+  },
+  {
+    "ekipman_id": "E003",
+    "ad": "Fener",
+    "toplam_stok": 10,
+    "mevcut_stok": 6
+  }
+]
