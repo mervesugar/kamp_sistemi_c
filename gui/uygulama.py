@@ -502,7 +502,10 @@ class AnaUygulama(QMainWindow):
         self._alan_listele()
         self._rezervasyon_listele()
         self._ekipman_listele()
-        self._durum(sonuc)
+        if sonuc == "Geri alınacak işlem yok.":
+            bilgi_kutusu(self, "Stack Boş", sonuc)
+        else:
+            self._durum(sonuc)
 
     # 2. ALAN SEKMESİ
 
